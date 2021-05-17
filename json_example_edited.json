@@ -1,0 +1,13 @@
+{
+    "user": {
+        "name": "john",
+        "location": {
+            "city": "Capracotta",
+            "state": "Molise"
+        },
+        "roles": [
+            "admin",
+            "user"
+        ]
+    }
+}

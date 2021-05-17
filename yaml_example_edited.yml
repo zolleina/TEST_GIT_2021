@@ -1,0 +1,8 @@
+user:
+  location:
+    city: Capracotta
+    state: Molise
+  name: john
+  roles:
+  - admin
+  - user
